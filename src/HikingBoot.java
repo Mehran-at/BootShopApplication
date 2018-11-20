@@ -1,5 +1,6 @@
 public class HikingBoot {
-    private int size;
+    private Integer size;
+    
     public HikingBoot(Integer size) {
         this.size = size;
     }
